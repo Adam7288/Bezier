@@ -1,5 +1,6 @@
 # Bezier
 PHP cubic bezier easing class
+
 Create a bezier easing function and get output values from 0 to 1 depending on input from 0 to 1.
 ## Usage
 
